@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#e2b15a"/>
+  <circle cx="470" cy="90" r="70" fill="#6d4428" opacity="0.35"/>
+  <ellipse cx="320" cy="300" rx="180" ry="28" fill="#000" opacity="0.08"/>
+  <ellipse cx="320" cy="250" rx="150" ry="36" fill="#f7f1e8"/>
+  <ellipse cx="320" cy="236" rx="126" ry="28" fill="#fffdf8"/>
+  <circle cx="250" cy="188" r="46" fill="#6d4428"/>
+  <circle cx="330" cy="170" r="58" fill="#6d4428" opacity="0.9"/>
+  <circle cx="392" cy="196" r="34" fill="#6d4428" opacity="0.75"/>
+  <text x="40" y="70" font-family="Georgia" font-size="42" fill="#2a2118">Biryani</text>
+</svg>
